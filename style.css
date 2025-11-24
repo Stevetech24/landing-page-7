@@ -518,14 +518,15 @@ hr {
   .collabs {
     gap: 50px;
   }
+.hero-left ul {
+    gap: 16px;
+  }
 }
 @media (max-width: 979px) {
   html {
     font-size: 50%;
   }
-  .hero-left ul {
-    gap: 16px;
-  }
+  
 }
 @media (max-width: 767px) {
   .container {
