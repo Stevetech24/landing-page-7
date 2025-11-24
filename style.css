@@ -508,6 +508,7 @@ hr {
   padding-block: 24px 48px;
   color: #475569;
 }
+
 @media (max-width: 1200px) {
   .container {
     padding-inline: 40px;
@@ -518,8 +519,11 @@ hr {
   .collabs {
     gap: 50px;
   }
-.hero-left ul {
+ .hero-left ul {
     gap: 16px;
+  }
+.hero-left h1{
+font-size:4rem;
   }
 }
 @media (max-width: 979px) {
